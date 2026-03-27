@@ -9,7 +9,7 @@ Reduzir trabalho manual
 Aumentar conversão de leads
 Automatizar atendimento e operações
 Transformar dados em decisões
-<img width="500" height="500" alt="ChatGPT Image 11 de mar  de 2026, 11_20_52" src="https://github.com/user-attachments/assets/92a35e21-8c5f-4747-ba9e-044037fcaa1a" />
+<img width="500" height="200" alt="ChatGPT Image 11 de mar  de 2026, 11_20_52" src="https://github.com/user-attachments/assets/92a35e21-8c5f-4747-ba9e-044037fcaa1a" />
 
 Inspirada no conceito moderno de automação e inteligência aplicada ao negócio, a NeuroFlow segue a linha de soluções que combinam IA + dados + automação, tendência forte no mercado atual
 
