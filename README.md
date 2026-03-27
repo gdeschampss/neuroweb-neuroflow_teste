@@ -9,7 +9,7 @@ Reduzir trabalho manual
 Aumentar conversão de leads
 Automatizar atendimento e operações
 Transformar dados em decisões
-<img width="1024" height="1024" alt="ChatGPT Image 11 de mar  de 2026, 11_20_52" src="https://github.com/user-attachments/assets/92a35e21-8c5f-4747-ba9e-044037fcaa1a" />
+<img width="500" height="500" alt="ChatGPT Image 11 de mar  de 2026, 11_20_52" src="https://github.com/user-attachments/assets/92a35e21-8c5f-4747-ba9e-044037fcaa1a" />
 
 Inspirada no conceito moderno de automação e inteligência aplicada ao negócio, a NeuroFlow segue a linha de soluções que combinam IA + dados + automação, tendência forte no mercado atual
 
@@ -74,9 +74,9 @@ Deploy:
 #🧠 Como funciona a lógica da solução
 
 <img width="885" height="356" alt="image" src="https://github.com/user-attachments/assets/e35fbbf1-6abf-44bb-a46f-eea60409727d" />
-<img width="1200" height="1026" alt="image" src="https://github.com/user-attachments/assets/3afad500-9de1-4977-a201-968f466ed16b" />
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/5c8bd4b4-79b7-4c9f-b686-c51b7ffc21e9" />
-<img width="2048" height="1071" alt="image" src="https://github.com/user-attachments/assets/660600a8-702c-4a2d-b19e-f7a299068393" />
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/3afad500-9de1-4977-a201-968f466ed16b" />
+<img width="3840" height="700" alt="image" src="https://github.com/user-attachments/assets/5c8bd4b4-79b7-4c9f-b686-c51b7ffc21e9" />
+<img width="2048" height="700" alt="image" src="https://github.com/user-attachments/assets/660600a8-702c-4a2d-b19e-f7a299068393" />
 
 
 
